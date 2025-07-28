@@ -10,9 +10,9 @@ const Footer = ({Mode}) => {
           <div>
             <div className='pt-5'><h3><b>Connect</b></h3></div>
 <div className="flex justify-evenly items-center gap-4 mb-5">
-            <a href="https://github.com/" target="_blank" rel="noreferrer">GitHub</a>
-          <a href="https://linkedin.com/" target="_blank" rel="noreferrer">LinkedIn</a>
-          <a href="mailto:someone@example.com">Email</a>
+            <a href="https://github.com/satya-no17" target="_blank" rel="noreferrer">GitHub</a>
+          <a href="https://www.linkedin.com/in/satyam-kumar-929b97325/" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a href="mailto:satyarajbarnwal2008@gmail.com">Email</a>
           </div>
           </div>
       </div>
