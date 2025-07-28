@@ -22,13 +22,17 @@
 - 🎯 JavaScript (ES6+)
 
 ---
+##🌐 Live Preview
 
+```https://satya-s-todo-app.vercel.app/```
+
+---
 ## 🛠️ Getting Started
 
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name
+git clone https://github.com/satya-no17/Satya-s_ToDo_app.git
 cd your-repo-name
 npm install
 npm run dev
