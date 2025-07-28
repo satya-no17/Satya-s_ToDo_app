@@ -1,0 +1,44 @@
+.nav {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  height: 60px;
+  border-bottom: 2px solid black;
+}
+
+.title {
+  background-color: rgb(114, 176, 246);
+  color: white;
+  border: none;
+  border-radius: 16px;
+  font-weight: bold;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.comp {
+  display: flex;
+  gap: 20px;
+}
+.comp p {
+  margin: 0;
+  cursor: pointer;
+  font-weight: 500;
+
+}
+.comp p:hover {
+  color: rgb(114, 176, 246);
+  transform: scale(1.05);
+}
+
+.nav.dark {
+  background-color: #2c2c3e;
+  color: #ffffff;
+  transition: all 0.3s ease;
+}
+
