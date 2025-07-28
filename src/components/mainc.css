@@ -125,7 +125,7 @@
         height: 700px;
     }
 .taskList {
-  max-height: 800px;        
+  max-height: 600px;        
   overflow-y: auto;
 }
   .btn{
