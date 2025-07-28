@@ -20,6 +20,7 @@
   justify-content: center;
   width: 20%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding:10px ;
 }
 .comp {
   display: flex;
